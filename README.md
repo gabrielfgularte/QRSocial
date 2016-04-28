@@ -8,7 +8,7 @@ The idea behind QRSocial is to provide an easy tool for bloggers (youtubers, etc
 TODO
 
 ## Credits
-[@OGatoGalactico](https://twitter.com/OGatoGalactico)
+[@OGatoGalactico](https://twitter.com/OGatoGalactico) - Who came up with this awesome idea on Twitter
 
 ## License
 TODO
