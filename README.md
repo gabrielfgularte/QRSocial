@@ -11,4 +11,4 @@ TODO
 [@OGatoGalactico](https://twitter.com/OGatoGalactico) - Who came up with this awesome idea on Twitter
 
 ## License
-TODO
+See LICENSE
